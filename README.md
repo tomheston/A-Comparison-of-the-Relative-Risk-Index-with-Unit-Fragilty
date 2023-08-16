@@ -1,4 +1,5 @@
 # A-Comparison-of-the-Relative-Risk-Index-with-Unit-Fragilty
+
 A comparison of the unit fragility index with the new Relative Risk Index (RRI) which measures statistical fragility without dependence upon p-values.
 
 A COMPARATIVE ANALYSIS OF UNIT FRAGILITY AND THE RELATIVE RISK INDEX
@@ -11,6 +12,8 @@ Department of Medical Education and Clinical Sciences, Washington State
 University, Spokane, Washington.
 
 Copyright: CC BY-NC-ND 4.0 and GNU GPL v3.0
+
+Citation: Thomas F. Heston MD. (2023). tomheston/A-Comparison-of-the-Relative-Risk-Index-with-Unit-Fragilty: A-Comparison-of-the-Relative-Risk-Index-with-Unit-Fragilty (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8251336
 
 ABSTRACT
 
